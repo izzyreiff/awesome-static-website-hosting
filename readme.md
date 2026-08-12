@@ -22,6 +22,7 @@ If you'd like to contribute, see [Contribution Guidelines](/contributing.md).
 - [Netlify](https://www.netlify.com/) - **Tech Lvl: 3/5** - Host w/ Github, GitLab, or BitBucket, publish w/ form handling, SSL, and build with ALL static site generators.
 - [Updog](https://updog.co/) - **Tech Lvl: 1/5** - Publish w/ Dropbox or Google Drive, one website w/ a custom domain, 404 page, and favicons.
 - [Nippy](https://nippy.host) - **Tech Lvl: 1/5** - Drag in files, photos, or a whole folder and get a permanent public link - no build step or git required. Free tier: one site, 25 MB.
+- [harvis.dev](https://harvis.dev/) - **Tech Lvl: 1/5** - Drag & drop a folder (or run npx harvis) and get a live site in seconds, no account needed. Built-in form handling, free for small sites.
 
 ## Super Cheap
 - [Amazon S3](https://aws.amazon.com/getting-started/projects/host-static-website/services-costs/) - **Tech Lvl: 5/5** - Using AWS free usage tier for static sites, monthly costs be <$1.00. Scales easily and very robust.
