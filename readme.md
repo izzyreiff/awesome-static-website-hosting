@@ -22,6 +22,7 @@ If you'd like to contribute, see [Contribution Guidelines](/contributing.md).
 - [Netlify](https://www.netlify.com/) - **Tech Lvl: 3/5** - Host w/ Github, GitLab, or BitBucket, publish w/ form handling, SSL, and build with ALL static site generators.
 - [Updog](https://updog.co/) - **Tech Lvl: 1/5** - Publish w/ Dropbox or Google Drive, one website w/ a custom domain, 404 page, and favicons.
 - [Nippy](https://nippy.host) - **Tech Lvl: 1/5** - Drag in files, photos, or a whole folder and get a permanent public link - no build step or git required. Free tier: one site, 25 MB.
+- [Shipvela](https://shipvela.com/) - **Tech Lvl: 2/5** - Publish React, Vite, and static websites from GitHub or a prebuilt folder with the CLI. Free tier: 3 projects and 20 publishes per month, with custom domains and managed HTTPS.
 
 ## Super Cheap
 - [Amazon S3](https://aws.amazon.com/getting-started/projects/host-static-website/services-costs/) - **Tech Lvl: 5/5** - Using AWS free usage tier for static sites, monthly costs be <$1.00. Scales easily and very robust.
